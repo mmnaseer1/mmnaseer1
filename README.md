@@ -17,7 +17,7 @@ I’m a passionate Software Quality Assurance Engineer and SDET-in-training base
 ## 🛠️ Tech Stack
 **Languages:** Java  
 **Testing & Automation:** Selenium · TestNG · Playwright · JMeter · Postman  
-**Frameworks & Tools:** Page Object Model · Maven · GitHub Actions · Jenkins · Docker · Kubernetes
+**Frameworks & Tools:** Page Object Model · Maven · GitHub Actions · Jenkins · Docker · Kubernetes  
 **Managment/Bug Tracking Tools:** Jira · HP ALM
 **Cloud & Infra:** AWS (EC2 · S3 · IAM) · Terraform basics  
 **Other:** SQL · Confluence · HTML · CSS  
