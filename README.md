@@ -1,7 +1,7 @@
 # Muhammad M. Naseer 👋
 
 ## 📝 Bio
-I’m a passionate Software Quality Assurance Engineer and SDET-in-training based in Northern Virginia. With a background in IT support and hands-on experience at the American Red Cross and Chenega Corporation, I build robust, maintainable automation frameworks in Java with selenium. When I’m not breaking software, you’ll find me improving my AWS skills, optimizing SEO for my side-project **CalcWithEase**, or experimenting with AI-powered workflows.
+I’m a passionate Software Quality Assurance Engineer based in Northern Virginia. With a background in hands-on experience at the American Red Cross and Chenega Corporation, I build robust, maintainable automation frameworks in Java with selenium. When I’m not breaking software, you’ll find me improving my AWS skills, optimizing SEO for my side-project **CalcWithEase**, or experimenting with AI-powered workflows.
 
 ---
 
@@ -16,20 +16,20 @@ I’m a passionate Software Quality Assurance Engineer and SDET-in-training base
 
 ## 🛠️ Tech Stack
 **Languages:** Java  
-**Testing & Automation:** Selenium · TestNG · Playwright · JMeter · Postman  
+**Testing & Automation:** Selenium · TestNG · Postman  
 **Frameworks & Tools:** Page Object Model · Maven · GitHub Actions · Jenkins · Docker · Kubernetes  
 **Managment/Bug Tracking Tools:** Jira · HP ALM   
-**Cloud & Infra:** AWS (EC2 · S3 · IAM) · Terraform basics  
+**Cloud & Infra:** AWS (EC2 · S3 · IAM)   
 **Other:** SQL · Confluence · HTML · CSS  
  
 
 
 ## 🎯 Goals 
-- Earn AWS Certified Developer – Associate  
-- Master JS/TS-based testing and AI-driven workflows  
+ 
+- Master AI-driven workflows  
 
 ## 📫 How to Reach Me
-- 🔗 LinkedIn: [linkedin.com/in/muhammadMN](https://linkedin.com/in/muhammadMN)  
+
 - ✉️ Email: rmusharraf888@gmail.com   
 
 ---
