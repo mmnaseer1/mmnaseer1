@@ -10,9 +10,8 @@ I’m a passionate Software Quality Assurance Engineer based in Northern Virgini
 - 🌐 Developing **CalcWithEase**, a full-stack calculator platform with SEO, AdSense, and AI solver integrations  
 
 ## 🌱 I’m learning
-- Playwright with JavaScript/TypeScript
 - Advanced AWS DevOps (AMI automation, CI/CD pipelines)  
-- AI Workflow Design & Data Science fundamentals  
+- AI Workflow Design fundamentals  
 
 ## 🛠️ Tech Stack
 **Languages:** Java  
