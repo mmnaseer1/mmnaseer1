@@ -16,7 +16,7 @@ I’m a passionate Software Quality Assurance Engineer based in Northern Virgini
 ## 🛠️ Tech Stack
 **Languages:** Java  
 **Testing & Automation:** Selenium · TestNG · Postman  
-**Frameworks & Tools:** Page Object Model · Maven · GitHub Actions · Jenkins · Docker · Kubernetes  
+**Frameworks & Tools:** Page Object Model · Maven · Cucumber · BDD · DDT · Jenkins   
 **Managment/Bug Tracking Tools:** Jira · HP ALM   
 **Cloud & Infra:** AWS (EC2 · S3 · IAM)   
 **Other:** SQL · Confluence · HTML · CSS  
