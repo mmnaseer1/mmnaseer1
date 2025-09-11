@@ -1,6 +1,6 @@
 # Muhammad M. Naseer 👋
-[![LinkedIn Badge](<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="muhammad-m-naseer-69b543380" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/muhammad-m-naseer-69b543380?trk=profile-badge">Muhammad M. Naseer</a></div>
-              )
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="muhammad-m-naseer-69b543380" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/muhammad-m-naseer-69b543380?trk=profile-badge">Muhammad M. Naseer</a></div>
+              
 
 ## 📝 Bio
 I’m a passionate Software Quality Assurance Engineer based in Northern Virginia. With a background in hands-on experience at the American Red Cross and Chenega Corporation, I build robust, maintainable automation frameworks in Java with selenium. When I’m not breaking software, you’ll find me improving my AWS skills, optimizing SEO for my side-project **CalcWithEase**, or experimenting with AI-powered workflows.
