@@ -1,5 +1,6 @@
 # Muhammad M. Naseer 👋
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="muhammad-m-naseer-69b543380" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/muhammad-m-naseer-69b543380?trk=profile-badge">Muhammad M. Naseer</a></div>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-m-naseer-69b543380)
+
               
 
 ## 📝 Bio
