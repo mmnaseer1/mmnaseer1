@@ -1,37 +1,44 @@
 # Muhammad M. Naseer 👋
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-m-naseer-69b543380)
 
-              
+# 👋 About Me  
 
-## 📝 Bio
-I’m a passionate Software Quality Assurance Engineer based in Northern Virginia. With a background in hands-on experience at the American Red Cross and Chenega Corporation, I build robust, maintainable automation frameworks in Java with selenium. When I’m not breaking software, you’ll find me improving my AWS skills, optimizing SEO for my side-project **CalcWithEase**, or experimenting with AI-powered workflows.
+I’m a **Software Quality Assurance Engineer** with over **6 years of experience** in both manual and automation testing across **Agile, SAFe, and Waterfall** environments.  
+I’ve worked on large-scale projects at the **U.S. Department of Housing and Urban Development (HUD)**, **U.S. Department of Agriculture (USDA)**, and the **American Red Cross**, ensuring high-quality software delivery through robust testing practices.  
 
 ---
 
-## 🔭 I’m currently
-- 🛠️ QA Engineer at Chenega Corporation, Arlington, VA    
-- 🌐 Developing **CalcWithEase**, a full-stack calculator platform with SEO, AdSense, and AI solver integrations  
+## 🔭 Current Focus  
+- QA Automation Engineer (HUD)  
+- Designing and maintaining automation frameworks to reduce regression cycles and improve release quality  
 
-## 🌱 I’m learning
-- Advanced AWS DevOps (AMI automation, CI/CD pipelines)  
-- AI Workflow Design fundamentals  
+---
 
-## 🛠️ Tech Stack
-**Languages:** Java  
-**Testing & Automation:** Selenium · TestNG · Postman · Cucumber  
-**Frameworks & Tools:** Page Object Model · Maven · BDD · DDT · Jenkins   
-**Managment/Bug Tracking Tools:** Jira · HP ALM   
-**Cloud & Infra:** AWS (EC2 · S3 · IAM)   
-**Other:** SQL · Confluence · HTML · CSS  
- 
+## 🛠️ Tech Stack  
+- **Languages:** Java, SQL  
+- **Testing & Automation:** Selenium WebDriver, TestNG, Cucumber (BDD), Maven, JUnit, Postman  
+- **Frameworks & Approaches:** Page Object Model, Hybrid Frameworks, Data-Driven Testing, RTM  
+- **CI/CD & Tools:** Jenkins, Git, Eclipse  
+- **Bug Tracking & Collaboration:** JIRA, Azure DevOps, HP ALM, Confluence  
+- **Databases:** MySQL, Oracle, MS Access  
+- **OS & Compliance:** Windows, Mac OS, Accessibility Testing (508/WCAG)
+- **Cloud & Infra:** AWS (EC2 · S3 · IAM) 
 
+---
 
-## 🎯 Goals 
- 
-- Master AI-driven workflows  
+## 🌱 Continuous Learning  
+- AWS Certified Cloud Practitioner  
+- CompTIA Security+, Project+, A+  
+- Expanding skills in **AI-driven testing approaches** and **accessibility automation**  
+
+---
+
+## 🎯 Goals  
+To continue advancing in **test automation engineering**, contributing to projects that demand **reliability, scalability, and compliance**, while staying on top of emerging QA practices and technologies.  
+
 
 ## 📫 How to Reach Me
 
-- ✉️ Email: rmusharraf888@gmail.com   
+- ✉️ Email: muhammad.naseer0129@gmail.com   
 
 ---
