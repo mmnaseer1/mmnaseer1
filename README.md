@@ -3,8 +3,7 @@
 
 # 👋 About Me  
 
-I’m a **Software Quality Assurance Engineer** with over **6 years of experience** in both manual and automation testing across **Agile, SAFe, and Waterfall** environments.  
-I’ve worked on large-scale projects at the **U.S. Department of Housing and Urban Development (HUD)**, **U.S. Department of Agriculture (USDA)**, and the **American Red Cross**, ensuring high-quality software delivery through robust testing practices.  
+I’m a **Software Quality Assurance Engineer** with over **6 years of experience** in both manual and automation testing across **Agile, SAFe, and Waterfall** environments. I’ve worked on large-scale projects at the **U.S. Department of Housing and Urban Development (HUD)**, **U.S. Department of Agriculture (USDA)**, and the **American Red Cross**, ensuring high-quality software delivery through robust testing practices.  
 
 ---
 
